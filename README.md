@@ -11,4 +11,4 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cfcromn&show_icons=true&theme=tokyonight)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cfcromn&theme=tokyo-night)](https://github.com/cfcromn)
