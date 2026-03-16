@@ -1,9 +1,16 @@
 {
   "type": "night",
-  "fileName": "profile-customize.svg",
   "backgroundColor": "#0d1117",
   "foregroundColor": "#e6edf3",
   "strongColor": "#00e5ff",
   "weakColor": "#67e8f9",
-  "radarColor": "#8b5cf6"
+  "radarColor": "#8b5cf6",
+  "darkMode": {
+    "type": "night",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#e6edf3",
+    "strongColor": "#00e5ff",
+    "weakColor": "#67e8f9",
+    "radarColor": "#8b5cf6"
+  }
 }
