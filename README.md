@@ -10,5 +10,3 @@
 </picture>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cfcromn&theme=tokyo-night)](https://github.com/cfcromn)
