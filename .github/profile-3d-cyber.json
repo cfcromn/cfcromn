@@ -1,0 +1,9 @@
+{
+  "type": "night",
+  "fileName": "profile-customize.svg",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#c9d1d9",
+  "strongColor": "#00f5ff",
+  "weakColor": "#00ff9c",
+  "radarColor": "#8b5cf6"
+}
